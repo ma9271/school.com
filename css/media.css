@@ -1,0 +1,133 @@
+@media (max-width:575px) {
+    .banner_content {
+        text-align: center;
+    }
+    .navbar {
+        text-align: center;
+    }
+
+    .banner_content h1 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+
+    .banner_content p {
+        font-size: 20px;
+        line-height: 30px;
+        margin: 13px 0;
+    }
+
+    .banner_content a {
+        margin-bottom: 10px;
+        font-size: 21px;
+    }
+
+    .feature_contant {
+        margin: 22px 0;
+    }
+
+    .online ul li {
+        margin-right: -234px;
+    }
+    .online_content {
+      
+    }
+    .online_content h3 {
+        font-size: 28px;
+        margin: 11px 0;
+        font-weight: 400;
+    }
+    .online_content p {
+        font-size: 22px;
+        font-weight: 400;
+      
+    }
+    .online_content .btn_bye {
+        font-weight: 400;
+        font-size: 12px;
+        padding: 5px 19px;
+    
+    }
+    .online_content ul {
+        font-size: 18px;
+    }
+    .testimonial p {
+        font-weight: 400;
+        font-size: 17px;
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .clint {
+        height: 200px;
+        width: 200px;
+        margin: auto;
+    }
+
+    .testimonial {
+        padding: 0 !important;
+    }
+   .footer_medium{
+    text-align: center;
+   }
+   .footer_part p {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+   
+}
+   .footer_part ul li {
+    font-weight: 500;
+    font-size: 20px;
+   
+}
+}
+
+@media (max-width:320px) {
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+
+    .banner_content h1 {
+        font-size: 25px;
+        line-height: 38px;
+
+    }
+
+    .banner_content {
+        text-align: center;
+    }
+
+    .banner_content p {
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .feature_contant {
+        margin-bottom: 20px;
+    }
+
+    .online {
+        padding-top: 0px !important;
+    }
+
+    .online_content {
+        margin-bottom: 17px;
+    }
+
+    .online ul li {
+        margin-right: -20px;
+    }
+
+    .testimonial {
+        padding: 0 !important;
+        margin: 9px 0;
+    }
+
+    .testimonial p {
+        font-size: 14px;
+        line-height: 29px;
+    }
+
+}
